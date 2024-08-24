@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/vintage-sourcer/static/css/main.f855e6bc.css",
+    "main.js": "/vintage-sourcer/static/js/main.704a586e.js",
+    "static/js/453.f8b385e1.chunk.js": "/vintage-sourcer/static/js/453.f8b385e1.chunk.js",
+    "static/media/logo.svg": "/vintage-sourcer/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/vintage-sourcer/index.html",
+    "main.f855e6bc.css.map": "/vintage-sourcer/static/css/main.f855e6bc.css.map",
+    "main.704a586e.js.map": "/vintage-sourcer/static/js/main.704a586e.js.map",
+    "453.f8b385e1.chunk.js.map": "/vintage-sourcer/static/js/453.f8b385e1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.704a586e.js"
+  ]
+}
